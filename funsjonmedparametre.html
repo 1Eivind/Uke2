@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>parameter madness</title>
+    <style>
+        body{
+            padding:0;
+            margin:0;
+        }
+    </style>
+    
+</head>
+
+<body id="background">
+    <h1>why is it not working... now it is</h1>
+    <div id="seconddiv"><p>this is a paragraph that I will test changing with a functionhjgkjhgh</p></div>
+    <div id="mainDiv">main div</div>
+    <button onclick="myfunction('red',50,100)">Test 1</button>
+    <button onclick="myfunction('blue',75,200)">Test 2</button>
+    <button onclick="myfunction2()">Test 3</button>
+    <button onclick="myfunction3()">blankheparagraph</button>
+
+<div>
+        <button onclick="lightMode()">Lightmode</button>
+        <button onclick="darkMode()">Darkmode</button>
+    </div>
+
+    <script>
+        function lightMode(){
+            document.getElementById('background').style.backgroundColor = 'yellow';
+            document.getElementById('background').style.color = 'red';
+        }
+
+        function darkMode(){
+            document.getElementbyId('background').style.backgroundColor = '#303030';
+            document.getElementbyId('background').style.color = 'whitesmoke';
+        }
+
+        function myfunction(color,width,height){
+            document.getElementById('mainDiv').innerHTML = /*HTML*/`
+            <div style="background-color:${color}; width: ${width}%; height:${height}px; "></div>
+            `;
+        }
+        
+        function myfunction2(){
+            document.getElementById('mainDiv').innerHTML = '<h1>uretttest</h1>';
+        }
+
+        function myfunction3(){
+            document.getElementById('seconddiv').innerHTML = '';
+        }
+
+    </script>
+
+</body>
+</html>

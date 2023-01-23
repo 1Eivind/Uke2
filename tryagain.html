@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<p>Lag en funksjon som kan endre både tekst, farge og størrelse til en div.
+  <br>
+Legg til 2 knapper som trigger funksjonen med forskjellige verdier
+<br></p>
+
+    <div id="mainDiv">Dette skal endres</div>
+    <button onclick="myfunction('red',50,100)">Test 1</button>
+    <button onclick="myfunction('blue',75,200)">Test 2</button>
+
+    <script>
+        function myfunction(color,width,height) {
+            document.getElementById('mainDiv').innerHTML = /*HTML*/`
+            <div style="background-color:${color}; width: ${width}%; height:${height}px; "></div>
+            `;
+        }
+        
+
+
+    </script>
+
+</body>
+</html>

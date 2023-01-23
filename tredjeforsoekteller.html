@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Counter</h3>
+<div id="count"></div><br><br>
+<button onclick="counterFunc()">Mere</button>
+<button onclick="counterFunc2()">Mindre</button>
+
+<script>
+console.log(counterFunc);
+var count = 0;
+function counterFunc(){
+ count++;
+ document.getElementById("count").innerHTML = count;
+}
+
+function counterFunc2(){
+ count--;
+ document.getElementById("count").innerHTML = count;
+}
+
+function counterFunc(){
+ if (typeof(Storage) !== "undefined") {
+  if (localStorage.count) {
+   localStorage.count = Number(localStorage.count)+1;
+  } else {
+     localStorage.count = 1;
+  }
+  document.getElementById("count").innerHTML = localStorage.count;
+  }else {
+    document.getElementById("count").innerHTML = "Sorry, the browser you used does not support web storage.";
+  }
+}
+
+</script>
+
+</body>
+</html>

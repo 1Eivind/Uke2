@@ -1,0 +1,327 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:5500/index.html
+Subject: 
+Date: Thu, 19 Jan 2023 18:53:18 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ohBP0QsAhbunRSpUKrCXHByQdOPDa5wPBj66TSBQZo----"
+
+
+------MultipartBoundary--ohBP0QsAhbunRSpUKrCXHByQdOPDa5wPBj66TSBQZo----
+Content-Type: text/html
+Content-ID: <frame-DF9CCBFD568DDA6A58FB0625F8F78115@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:5500/index.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><meta name=3D"color-scheme" content=3D"light dark"></head><body><=
+div class=3D"line-gutter-backdrop"></div><form autocomplete=3D"off"><label =
+class=3D"line-wrap-control">Linjesammenf=C3=B8ying<input type=3D"checkbox" =
+aria-label=3D"Linjesammenf=C3=B8ying"></label></form><table><tbody><tr><td =
+class=3D"line-number" value=3D"1"></td><td class=3D"line-content"><span cla=
+ss=3D"html-doctype">&lt;!DOCTYPE html&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"2"></td><td class=3D"line-=
+content"><span class=3D"html-tag">&lt;html <span class=3D"html-attribute-na=
+me">lang</span>=3D"<span class=3D"html-attribute-value">en</span>"&gt;</spa=
+n>
+</td></tr><tr><td class=3D"line-number" value=3D"3"></td><td class=3D"line-=
+content">
+</td></tr><tr><td class=3D"line-number" value=3D"4"></td><td class=3D"line-=
+content"><span class=3D"html-tag">&lt;head&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"5"></td><td class=3D"line-=
+content">    <span class=3D"html-tag">&lt;meta <span class=3D"html-attribut=
+e-name">charset</span>=3D"<span class=3D"html-attribute-value">UTF-8</span>=
+"&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"6"></td><td class=3D"line-=
+content">    <span class=3D"html-tag">&lt;meta <span class=3D"html-attribut=
+e-name">http-equiv</span>=3D"<span class=3D"html-attribute-value">X-UA-Comp=
+atible</span>" <span class=3D"html-attribute-name">content</span>=3D"<span =
+class=3D"html-attribute-value">IE=3Dedge</span>"&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"7"></td><td class=3D"line-=
+content">    <span class=3D"html-tag">&lt;meta <span class=3D"html-attribut=
+e-name">name</span>=3D"<span class=3D"html-attribute-value">viewport</span>=
+" <span class=3D"html-attribute-name">content</span>=3D"<span class=3D"html=
+-attribute-value">width=3Ddevice-width, initial-scale=3D1.0</span>"&gt;</sp=
+an>
+</td></tr><tr><td class=3D"line-number" value=3D"8"></td><td class=3D"line-=
+content">    <span class=3D"html-tag">&lt;title&gt;</span>=F0=9F=A6=89Team7=
+oppgave=F0=9F=A6=89<span class=3D"html-tag">&lt;/title&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"9"></td><td class=3D"line-=
+content">    <span class=3D"html-comment">&lt;!-- icon under er et lite ico=
+n som dukker opp p=C3=A5 topppn av fanen i web browseren, stylesheet linken=
+ henter CSS fra et external stylesheet --&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"10"></td><td class=3D"line=
+-content">    <span class=3D"html-tag">&lt;link <span class=3D"html-attribu=
+te-name">rel</span>=3D"<span class=3D"html-attribute-value">icon</span>" <s=
+pan class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-attribute=
+-value html-resource-link" target=3D"_blank" href=3D"http://localhost:5500/=
+images/faviconOwl.png" rel=3D"noreferrer noopener">images/faviconOwl.png</a=
+>"&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"11"></td><td class=3D"line=
+-content">    <span class=3D"html-tag">&lt;link <span class=3D"html-attribu=
+te-name">rel</span>=3D"<span class=3D"html-attribute-value">stylesheet</spa=
+n>" <span class=3D"html-attribute-name">href</span>=3D"<a class=3D"html-att=
+ribute-value html-resource-link" target=3D"_blank" href=3D"http://localhost=
+:5500/styles.css" rel=3D"noreferrer noopener">styles.css</a>"&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"12"></td><td class=3D"line=
+-content"><span class=3D"html-tag">&lt;/head&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"13"></td><td class=3D"line=
+-content">
+</td></tr><tr><td class=3D"line-number" value=3D"14"></td><td class=3D"line=
+-content"><span class=3D"html-tag">&lt;body&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"15"></td><td class=3D"line=
+-content">    <span class=3D"html-tag">&lt;div&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"16"></td><td class=3D"line=
+-content">        <span class=3D"html-comment">&lt;!-- Her skal bildene kom=
+me i tilfeldig rekkef=C3=B8lge for =C3=A5 bli trykket p=C3=A5 --&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"17"></td><td class=3D"line=
+-content">        <span class=3D"html-tag">&lt;marquee <span class=3D"html-=
+attribute-name">direction</span>=3D"<span class=3D"html-attribute-value">ri=
+ght</span>" <span class=3D"html-attribute-name">behavior</span>=3D"<span cl=
+ass=3D"html-attribute-value">alternate</span>" <span class=3D"html-attribut=
+e-name">scrollamount</span>=3D<span class=3D"html-attribute-value">25</span=
+>&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"18"></td><td class=3D"line=
+-content">            <span class=3D"html-tag">&lt;h1 <span class=3D"html-a=
+ttribute-name">id</span>=3D"<span class=3D"html-attribute-value">tittel</sp=
+an>"&gt;</span>UGLE G=C3=85TEN<span class=3D"html-tag">&lt;/h1&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"19"></td><td class=3D"line=
+-content">        <span class=3D"html-tag">&lt;/marquee&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"20"></td><td class=3D"line=
+-content">        <span class=3D"html-tag">&lt;div <span class=3D"html-attr=
+ibute-name">class</span>=3D"<span class=3D"html-attribute-value">gridContai=
+ner</span>"&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"21"></td><td class=3D"line=
+-content">            <span class=3D"html-tag">&lt;img <span class=3D"html-=
+attribute-name">id</span>=3D"<span class=3D"html-attribute-value">r1k1</spa=
+n>" <span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attr=
+ibute-value html-resource-link" target=3D"_blank" href=3D"http://localhost:=
+5500/images/pinkOwlPiece1.png" rel=3D"noreferrer noopener">images/pinkOwlPi=
+ece1.png</a>" <span class=3D"html-attribute-name">class</span>=3D"<span cla=
+ss=3D"html-attribute-value">gridInside</span>" <span class=3D"html-attribut=
+e-name">onclick</span>=3D"<span class=3D"html-attribute-value">imageDoClick=
+(this, 1)</span>"&gt;</span><span class=3D"html-tag">&lt;/img&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"22"></td><td class=3D"line=
+-content">            <span class=3D"html-tag">&lt;img <span class=3D"html-=
+attribute-name">id</span>=3D"<span class=3D"html-attribute-value">r1k2</spa=
+n>" <span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attr=
+ibute-value html-resource-link" target=3D"_blank" href=3D"http://localhost:=
+5500/images/pinkOwlPiece2.png" rel=3D"noreferrer noopener">images/pinkOwlPi=
+ece2.png</a>" <span class=3D"html-attribute-name">class</span>=3D"<span cla=
+ss=3D"html-attribute-value">gridInside</span>" <span class=3D"html-attribut=
+e-name">onclick</span>=3D"<span class=3D"html-attribute-value">imageDoClick=
+(this, 2)</span>"&gt;</span><span class=3D"html-tag">&lt;/img&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"23"></td><td class=3D"line=
+-content">            <span class=3D"html-tag">&lt;img <span class=3D"html-=
+attribute-name">id</span>=3D"<span class=3D"html-attribute-value">r1k3</spa=
+n>" <span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attr=
+ibute-value html-resource-link" target=3D"_blank" href=3D"http://localhost:=
+5500/images/pinkOwlPiece3.png" rel=3D"noreferrer noopener">images/pinkOwlPi=
+ece3.png</a>" <span class=3D"html-attribute-name">class</span>=3D"<span cla=
+ss=3D"html-attribute-value">gridInside</span>" <span class=3D"html-attribut=
+e-name">onclick</span>=3D"<span class=3D"html-attribute-value">imageDoClick=
+(this, 3)</span>"&gt;</span><span class=3D"html-tag">&lt;/img&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"24"></td><td class=3D"line=
+-content">
+</td></tr><tr><td class=3D"line-number" value=3D"25"></td><td class=3D"line=
+-content">            <span class=3D"html-tag">&lt;img <span class=3D"html-=
+attribute-name">id</span>=3D"<span class=3D"html-attribute-value">r2k1</spa=
+n>" <span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attr=
+ibute-value html-resource-link" target=3D"_blank" href=3D"http://localhost:=
+5500/images/pinkOwlPiece4.png" rel=3D"noreferrer noopener">images/pinkOwlPi=
+ece4.png</a>" <span class=3D"html-attribute-name">class</span>=3D"<span cla=
+ss=3D"html-attribute-value">gridInside</span>" <span class=3D"html-attribut=
+e-name">onclick</span>=3D"<span class=3D"html-attribute-value">imageDoClick=
+(this, 4)</span>"&gt;</span><span class=3D"html-tag">&lt;/img&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"26"></td><td class=3D"line=
+-content">            <span class=3D"html-tag">&lt;img <span class=3D"html-=
+attribute-name">id</span>=3D"<span class=3D"html-attribute-value">r2k2</spa=
+n>" <span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attr=
+ibute-value html-resource-link" target=3D"_blank" href=3D"http://localhost:=
+5500/images/pinkOwlPiece5.png" rel=3D"noreferrer noopener">images/pinkOwlPi=
+ece5.png</a>" <span class=3D"html-attribute-name">class</span>=3D"<span cla=
+ss=3D"html-attribute-value">gridInside</span>" <span class=3D"html-attribut=
+e-name">onclick</span>=3D"<span class=3D"html-attribute-value">imageDoClick=
+(this, 5)</span>"&gt;</span><span class=3D"html-tag">&lt;/img&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"27"></td><td class=3D"line=
+-content">            <span class=3D"html-tag">&lt;img <span class=3D"html-=
+attribute-name">id</span>=3D"<span class=3D"html-attribute-value">r2k3</spa=
+n>" <span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attr=
+ibute-value html-resource-link" target=3D"_blank" href=3D"http://localhost:=
+5500/images/pinkOwlPiece6.png" rel=3D"noreferrer noopener">images/pinkOwlPi=
+ece6.png</a>" <span class=3D"html-attribute-name">class</span>=3D"<span cla=
+ss=3D"html-attribute-value">gridInside</span>" <span class=3D"html-attribut=
+e-name">onclick</span>=3D"<span class=3D"html-attribute-value">imageDoClick=
+(this, 6)</span>"&gt;</span><span class=3D"html-tag">&lt;/img&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"28"></td><td class=3D"line=
+-content">
+</td></tr><tr><td class=3D"line-number" value=3D"29"></td><td class=3D"line=
+-content">            <span class=3D"html-tag">&lt;img <span class=3D"html-=
+attribute-name">id</span>=3D"<span class=3D"html-attribute-value">r3k1</spa=
+n>" <span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attr=
+ibute-value html-resource-link" target=3D"_blank" href=3D"http://localhost:=
+5500/images/pinkOwlPiece7.png" rel=3D"noreferrer noopener">images/pinkOwlPi=
+ece7.png</a>" <span class=3D"html-attribute-name">class</span>=3D"<span cla=
+ss=3D"html-attribute-value">gridInside</span>" <span class=3D"html-attribut=
+e-name">onclick</span>=3D"<span class=3D"html-attribute-value">imageDoClick=
+(this, 7)</span>"&gt;</span><span class=3D"html-tag">&lt;/img&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"30"></td><td class=3D"line=
+-content">            <span class=3D"html-tag">&lt;img <span class=3D"html-=
+attribute-name">id</span>=3D"<span class=3D"html-attribute-value">r3k2</spa=
+n>" <span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attr=
+ibute-value html-resource-link" target=3D"_blank" href=3D"http://localhost:=
+5500/images/pinkOwlPiece8.png" rel=3D"noreferrer noopener">images/pinkOwlPi=
+ece8.png</a>" <span class=3D"html-attribute-name">class</span>=3D"<span cla=
+ss=3D"html-attribute-value">gridInside</span>" <span class=3D"html-attribut=
+e-name">onclick</span>=3D"<span class=3D"html-attribute-value">imageDoClick=
+(this, 8)</span>"&gt;</span><span class=3D"html-tag">&lt;/img&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"31"></td><td class=3D"line=
+-content">            <span class=3D"html-tag">&lt;img <span class=3D"html-=
+attribute-name">id</span>=3D"<span class=3D"html-attribute-value">r3k3</spa=
+n>" <span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html-attr=
+ibute-value html-resource-link" target=3D"_blank" href=3D"http://localhost:=
+5500/images/pinkOwlPiece9.png" rel=3D"noreferrer noopener">images/pinkOwlPi=
+ece9.png</a>" <span class=3D"html-attribute-name">class</span>=3D"<span cla=
+ss=3D"html-attribute-value">gridInside</span>" <span class=3D"html-attribut=
+e-name">onclick</span>=3D"<span class=3D"html-attribute-value">imageDoClick=
+(this, 9)</span>"&gt;</span><span class=3D"html-tag">&lt;/img&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"32"></td><td class=3D"line=
+-content">        <span class=3D"html-tag">&lt;/div&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"33"></td><td class=3D"line=
+-content">        <span class=3D"html-comment">&lt;!-- Her er selve 'invent=
+orien' som bildene du trykker p=C3=A5 skal dukke opp, dette skal skje i jav=
+ascript --&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"34"></td><td class=3D"line=
+-content">
+</td></tr><tr><td class=3D"line-number" value=3D"35"></td><td class=3D"line=
+-content">        <span class=3D"html-tag">&lt;div <span class=3D"html-attr=
+ibute-name">id</span>=3D"<span class=3D"html-attribute-value">divToHide</sp=
+an>"&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"36"></td><td class=3D"line=
+-content">            <span class=3D"html-tag">&lt;div <span class=3D"html-=
+attribute-name">class</span>=3D"<span class=3D"html-attribute-value">gridCo=
+ntainerBox2</span>" <span class=3D"html-attribute-name">id</span>=3D"<span =
+class=3D"html-attribute-value">inventoryUnsorted</span>"&gt;</span><span cl=
+ass=3D"html-tag">&lt;/div&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"37"></td><td class=3D"line=
+-content">            <span class=3D"html-tag">&lt;div <span class=3D"html-=
+attribute-name">id</span>=3D"<span class=3D"html-attribute-value">inventory=
+</span>" <span class=3D"html-attribute-name">class</span>=3D"<span class=3D=
+"html-attribute-value">gridContainer</span>"&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"38"></td><td class=3D"line=
+-content">                <span class=3D"html-tag">&lt;img <span class=3D"h=
+tml-attribute-name">id</span>=3D"<span class=3D"html-attribute-value">ugleI=
+Ramme</span>" <span class=3D"html-attribute-name">src</span>=3D"<a class=3D=
+"html-attribute-value html-resource-link" target=3D"_blank" href=3D"http://=
+localhost:5500/images/pinkOwl.png" rel=3D"noreferrer noopener">images/pinkO=
+wl.png</a>" <span class=3D"html-attribute-name">alt</span>=3D"<span class=
+=3D"html-attribute-value">inventoryOwl</span>"&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"39"></td><td class=3D"line=
+-content">                <span class=3D"html-tag">&lt;img <span class=3D"h=
+tml-attribute-name">id</span>=3D"<span class=3D"html-attribute-value">ramme=
+</span>" <span class=3D"html-attribute-name">src</span>=3D"<a class=3D"html=
+-attribute-value html-resource-link" target=3D"_blank" href=3D"http://local=
+host:5500/images/frame.png" rel=3D"noreferrer noopener">images/frame.png</a=
+>" <span class=3D"html-attribute-name">alt</span>=3D"<span class=3D"html-at=
+tribute-value">inventoryFrame</span>"&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"40"></td><td class=3D"line=
+-content">            <span class=3D"html-tag">&lt;/div&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"41"></td><td class=3D"line=
+-content">        <span class=3D"html-tag">&lt;/div&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"42"></td><td class=3D"line=
+-content">       =20
+</td></tr><tr><td class=3D"line-number" value=3D"43"></td><td class=3D"line=
+-content">        <span class=3D"html-tag">&lt;button <span class=3D"html-a=
+ttribute-name">onclick</span>=3D"<span class=3D"html-attribute-value">hideE=
+lement()</span>"&gt;</span>HIDE/SHOW inventory<span class=3D"html-tag">&lt;=
+/button&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"44"></td><td class=3D"line=
+-content">        <span class=3D"html-comment">&lt;!-- Her er selve 'invent=
+orien' som bildene du trykker p=C3=A5 skal dukke opp, dette skal skje i jav=
+ascript --&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"45"></td><td class=3D"line=
+-content">    <span class=3D"html-tag">&lt;/div&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"46"></td><td class=3D"line=
+-content">    <span class=3D"html-comment">&lt;!-- Her henter vi 'script' k=
+oden fra indes.js --&gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"47"></td><td class=3D"line=
+-content">    <span class=3D"html-tag">&lt;script <span class=3D"html-attri=
+bute-name">src</span>=3D"<a class=3D"html-attribute-value html-resource-lin=
+k" target=3D"_blank" href=3D"http://localhost:5500/index.js" rel=3D"norefer=
+rer noopener">index.js</a>"&gt;</span><span class=3D"html-tag">&lt;/script&=
+gt;</span>
+</td></tr><tr><td class=3D"line-number" value=3D"48"></td><td class=3D"line=
+-content"><span class=3D"html-comment">&lt;!-- Code injected by live-server=
+ --&gt;</span></td></tr><tr><td class=3D"line-number" value=3D"49"></td><td=
+ class=3D"line-content"><span class=3D"html-tag">&lt;script&gt;</span></td>=
+</tr><tr><td class=3D"line-number" value=3D"50"></td><td class=3D"line-cont=
+ent">	// &lt;![CDATA[  &lt;-- For SVG support</td></tr><tr><td class=3D"lin=
+e-number" value=3D"51"></td><td class=3D"line-content">	if ('WebSocket' in =
+window) {</td></tr><tr><td class=3D"line-number" value=3D"52"></td><td clas=
+s=3D"line-content">		(function () {</td></tr><tr><td class=3D"line-number" =
+value=3D"53"></td><td class=3D"line-content">			function refreshCSS() {</td=
+></tr><tr><td class=3D"line-number" value=3D"54"></td><td class=3D"line-con=
+tent">				var sheets =3D [].slice.call(document.getElementsByTagName("link"=
+));</td></tr><tr><td class=3D"line-number" value=3D"55"></td><td class=3D"l=
+ine-content">				var head =3D document.getElementsByTagName("head")[0];</td=
+></tr><tr><td class=3D"line-number" value=3D"56"></td><td class=3D"line-con=
+tent">				for (var i =3D 0; i &lt; sheets.length; ++i) {</td></tr><tr><td c=
+lass=3D"line-number" value=3D"57"></td><td class=3D"line-content">					var =
+elem =3D sheets[i];</td></tr><tr><td class=3D"line-number" value=3D"58"></t=
+d><td class=3D"line-content">					var parent =3D elem.parentElement || head=
+;</td></tr><tr><td class=3D"line-number" value=3D"59"></td><td class=3D"lin=
+e-content">					parent.removeChild(elem);</td></tr><tr><td class=3D"line-nu=
+mber" value=3D"60"></td><td class=3D"line-content">					var rel =3D elem.re=
+l;</td></tr><tr><td class=3D"line-number" value=3D"61"></td><td class=3D"li=
+ne-content">					if (elem.href &amp;&amp; typeof rel !=3D "string" || rel.l=
+ength =3D=3D 0 || rel.toLowerCase() =3D=3D "stylesheet") {</td></tr><tr><td=
+ class=3D"line-number" value=3D"62"></td><td class=3D"line-content">						v=
+ar url =3D elem.href.replace(/(&amp;|\?)_cacheOverride=3D\d+/, '');</td></t=
+r><tr><td class=3D"line-number" value=3D"63"></td><td class=3D"line-content=
+">						elem.href =3D url + (url.indexOf('?') &gt;=3D 0 ? '&amp;' : '?') + =
+'_cacheOverride=3D' + (new Date().valueOf());</td></tr><tr><td class=3D"lin=
+e-number" value=3D"64"></td><td class=3D"line-content">					}</td></tr><tr>=
+<td class=3D"line-number" value=3D"65"></td><td class=3D"line-content">				=
+	parent.appendChild(elem);</td></tr><tr><td class=3D"line-number" value=3D"=
+66"></td><td class=3D"line-content">				}</td></tr><tr><td class=3D"line-nu=
+mber" value=3D"67"></td><td class=3D"line-content">			}</td></tr><tr><td cl=
+ass=3D"line-number" value=3D"68"></td><td class=3D"line-content">			var pro=
+tocol =3D window.location.protocol =3D=3D=3D 'http:' ? 'ws://' : 'wss://';<=
+/td></tr><tr><td class=3D"line-number" value=3D"69"></td><td class=3D"line-=
+content">			var address =3D protocol + window.location.host + window.locati=
+on.pathname + '/ws';</td></tr><tr><td class=3D"line-number" value=3D"70"></=
+td><td class=3D"line-content">			var socket =3D new WebSocket(address);</td=
+></tr><tr><td class=3D"line-number" value=3D"71"></td><td class=3D"line-con=
+tent">			socket.onmessage =3D function (msg) {</td></tr><tr><td class=3D"li=
+ne-number" value=3D"72"></td><td class=3D"line-content">				if (msg.data =
+=3D=3D 'reload') window.location.reload();</td></tr><tr><td class=3D"line-n=
+umber" value=3D"73"></td><td class=3D"line-content">				else if (msg.data =
+=3D=3D 'refreshcss') refreshCSS();</td></tr><tr><td class=3D"line-number" v=
+alue=3D"74"></td><td class=3D"line-content">			};</td></tr><tr><td class=3D=
+"line-number" value=3D"75"></td><td class=3D"line-content">			if (sessionSt=
+orage &amp;&amp; !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServ=
+er')) {</td></tr><tr><td class=3D"line-number" value=3D"76"></td><td class=
+=3D"line-content">				console.log('Live reload enabled.');</td></tr><tr><td=
+ class=3D"line-number" value=3D"77"></td><td class=3D"line-content">				ses=
+sionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);</td></tr>=
+<tr><td class=3D"line-number" value=3D"78"></td><td class=3D"line-content">=
+			}</td></tr><tr><td class=3D"line-number" value=3D"79"></td><td class=3D"=
+line-content">		})();</td></tr><tr><td class=3D"line-number" value=3D"80"><=
+/td><td class=3D"line-content">	}</td></tr><tr><td class=3D"line-number" va=
+lue=3D"81"></td><td class=3D"line-content">	else {</td></tr><tr><td class=
+=3D"line-number" value=3D"82"></td><td class=3D"line-content">		console.err=
+or('Upgrade your browser. This Browser is NOT supported WebSocket for Live-=
+Reloading.');</td></tr><tr><td class=3D"line-number" value=3D"83"></td><td =
+class=3D"line-content">	}</td></tr><tr><td class=3D"line-number" value=3D"8=
+4"></td><td class=3D"line-content">	// ]]&gt;</td></tr><tr><td class=3D"lin=
+e-number" value=3D"85"></td><td class=3D"line-content"><span class=3D"html-=
+tag">&lt;/script&gt;</span></td></tr><tr><td class=3D"line-number" value=3D=
+"86"></td><td class=3D"line-content"><span class=3D"html-tag">&lt;/body&gt;=
+</span>
+</td></tr><tr><td class=3D"line-number" value=3D"87"></td><td class=3D"line=
+-content">
+</td></tr><tr><td class=3D"line-number" value=3D"88"></td><td class=3D"line=
+-content"><span class=3D"html-tag">&lt;/html&gt;</span><span class=3D"html-=
+end-of-file"></span></td></tr></tbody></table></body></html>
+------MultipartBoundary--ohBP0QsAhbunRSpUKrCXHByQdOPDa5wPBj66TSBQZo------

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+Funksjoner med returverdi
+
+Vi kan kjøre en funksjon -> da vil kodelinjenene innenfor funksjonen kjøre setning for
+setning frem til den når slutten. Men hva skjer dersom vi har en verdi vi ønsker å beregne
+og ta vare på, eller noe vi vil ha ut igjen fra funksjonen som vi vil bruke videre ellers i
+koden? Funksjoner kan også returnere en verdi! Det gjør vi ved å bruke nøkkelordet return.
+Vi vil lage en funksjon som beregner alder basert på hvilket årstall man er født.
+
+
+når vi bruker denne funksjonen kan vi ta imot
+returverdien ved å tilordne den til en variabel slik:
+
+let myAge = getAge(1988);
+
+myAge vil da variere utfra hvilket årstall vi befinner oss i!
+Dette året er 2022- da får myAge verdien 34. Neste år vil den
+koden returnere 35 etc. 
+
+Oppgave - Get My age
+
+Lag en webside der brukeren kan skrive inn navn og året h*n ble født.
+Det skal da skrives ut en tekst på hva du heter og hvor gammel du er slik:
+
+<>input year of birth: input name:
+
+Result: Name: Marie Age: 52
+
+<form id="Name">
+    <input id="yearOfBirth type="number" min="1900" name="number">
+    <button>Submit name</button>
+  </form>
+
+<form id="form">
+    <input id="yearOfBirth type="number" min="1900" name="number">
+    <button>Submit year of birth</button>
+  </form>
+  
+  <script>
+
+     var form = document.getElementById('form');
+     number = document.getElementById('yearOfBirth');
+     form.onsubmit = getAge(yearOfBirth) {
+     var variable = number.value;
+     alert( variable );
+  };
+
+     function getAge(yearOfBirth){
+           let todaysDate = new Date(); //innebygd javascript funksjon som henter datens dato
+           let year = todaysDate.getFullYear(); //henter ut årstall fra dagens dato
+           let age = year - yearOfBirth;
+           return age;
+
+let myAge = getAge(1978);
+
+function showage() {
+        document.getElementById("getage").innerHTML = myAge;
+
+       }
+</script>
+    
+</body>
+</html>
